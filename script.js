@@ -13,3 +13,5 @@ console.log("En så kallad const variabel kan aldrig ändras efter att den har i
 console.log("Tillsammans är vi över ", year, "gamla. Men ingen av oss är äldre än", days)
 console.log(33 + 44)
 console.log("Update:", year + days)
+console.log(typeof days);
+console.log(typeof nameOne);
